@@ -1,4 +1,4 @@
-# Digital Passenger — Hack removal helper
+# WordPress (SC) Self-Healing and other hacks removal helper
 
 WP-CLI incident-response scanner for the self healing hack / `sc_*` WordPress implant, plus generic webshell heuristics and checksum checks.
 
